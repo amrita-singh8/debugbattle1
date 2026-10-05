@@ -340,7 +340,9 @@ img {
 
 .about-image {
   position: relative;
-  height: 400px;
+  height: 20px;
+  width: 100px;
+  margin-left: 250px;
   background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
   border-radius: 8px;
   overflow: hidden;
